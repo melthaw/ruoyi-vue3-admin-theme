@@ -10,20 +10,18 @@
 
 重构前
 
-![](readme/before1.png){style="border: 1px solid grey;"}
+<img src="readme/before1.png" style="border: 1px solid #eeeeee;">
 
 重构后
 
-![](readme/after1.png){style="border: 1px solid grey;"}
+<img src="readme/after1.png" style="border: 1px solid #eeeeee;">
 
-![](readme/after2.png){style="border: 1px solid grey;"}
+<img src="readme/after2.png" style="border: 1px solid #eeeeee;">
 
-![](readme/after3.png){style="border: 1px solid grey;"}
+<img src="readme/after3.png" style="border: 1px solid #eeeeee;">
 
-![](readme/after4.png){style="border: 1px solid grey;"}
+<img src="readme/after4.png" style="border: 1px solid #eeeeee;">
 
-![](readme/after5.png){style="border: 1px solid grey;"}
+<img src="readme/after5.png" style="border: 1px solid #eeeeee;">
 
-![](readme/after6.png){style="border: 1px solid grey;"}
-
-
+<img src="readme/after6.png" style="border: 1px solid #eeeeee;">
